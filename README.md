@@ -1,3 +1,4 @@
+Note: This project is developed for academic demonstration purposes only and is not affiliated with any institution.
 # Student Management System
 A full-stack Student Management System built using PHP, MySQL, Bootstrap.
 
