@@ -1,4 +1,7 @@
-/uploads/
+/uploads/*
+!/uploads/.gitkeep
+!/uploads/documents/.gitkeep
+!/uploads/profiles/.gitkeep
 vendor/
 node_modules/
 .env
